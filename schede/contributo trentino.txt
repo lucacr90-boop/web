@@ -1,0 +1,50 @@
+contributo trentino
+
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <title>Contributo Trentino fino a 100k € | Scheda</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Come ottenere il contributo per ristrutturare immobili in Trentino. Requisiti, tempi, link utili.">
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;margin:0;line-height:1.6}
+    header,main{max-width:850px;margin:0 auto;padding:16px}
+    .hero{width:100%;max-height:380px;object-fit:cover;border-radius:14px}
+    .cta{display:inline-block;margin:.5rem 0 1rem;background:#111;color:#fff;padding:10px 16px;border-radius:10px;text-decoration:none}
+    .box{background:#f9fafb;border:1px solid #e5e7eb;border-radius:12px;padding:12px;margin:14px 0}
+  </style>
+</head>
+<body>
+<header>
+  <nav><a href="/index.html">Home</a> • <a href="/schede/">Schede</a> • <strong>Contributo Trentino</strong></nav>
+  <h1>Contributo Trentino fino a 100k €</h1>
+  <p style="color:#555">Scheda rapida: requisiti, tempi, link utili.</p>
+  <img class="hero" src="/img/schede/trentino.jpg" alt="Borgo in Trentino, Italia">
+</header>
+
+<main>
+  <div class="box">
+    <strong>In breve:</strong>
+    <ul>
+      <li>Contributo pubblico per ristrutturazione in borghi del Trentino.</li>
+      <li>Importo variabile (fino a ~100k € a seconda del bando).</li>
+      <li>Richiede progetto tecnico e documentazione completa.</li>
+    </ul>
+  </div>
+
+  <h2>Come funziona</h2>
+  <p>Verifica il bando attivo e i comuni aderenti. Prepara la documentazione (titolo di proprietà, preventivi, progetto). I fondi sono limitati: conviene muoversi per tempo.</p>
+
+  <h2>Link utili</h2>
+  <ul>
+    <li>Portale ufficiale: <em>(aggiungi qui link)</em></li>
+    <li>Consulenza: <a href="https://partner.example.com?ref=domyvitalii" target="_blank" rel="sponsored noopener">Richiedi contatto</a></li>
+  </ul>
+
+  <a class="cta" href="https://partner.example.com?ref=domyvitalii" target="_blank" rel="sponsored noopener">Richiedi una consulenza</a>
+
+  <p style="font-size:.9rem;color:#666;margin-top:16px">Disclosure: alcuni link possono essere affiliati.</p>
+</main>
+</body>
+</html>
