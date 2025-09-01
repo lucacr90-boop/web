@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <title>Guida al mutuo per comprare casa – Guida</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+<!-- Google AdSense -->
+<meta name="google-adsense-account" content="ca-pub-8876623211473720">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8876623211473720" crossorigin="anonymous"></script>
+<!-- /Google AdSense -->
+
+  <style>/* ... css ... */</style>
+</head>
+<body>
+  <main>
+    <article class="card">
+      <h1>Guida al mutuo per comprare casa</h1>
+      <p class="muted">Guida pratica collegata alle nostre schede immobili.</p>
+      <h3>Punti chiave</h3>
+      <ul>
+        <li>Come funziona • Documenti necessari • Tempistiche</li>
+        <li>Costi tipici • Come confrontare le offerte</li>
+        <li>Checklist rapida per decidere</li>
+      </ul>
+      <p><a class="btn" rel="sponsored noopener" target="_blank" href="https://example.com/awin-mutuo">Richiedi un preventivo</a></p>
+      <p style="margin-top:8px"><a href="/index.html">← Torna alla home</a></p>
+    </article>
+  </main>
+</body>
+</html>

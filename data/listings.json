@@ -1,0 +1,230 @@
+[
+  {
+    "id": "liguria-dolceacqua-1",
+    "title_it": "Casa in Dolceacqua (Liguria)",
+    "region": "Liguria",
+    "comune": "Dolceacqua",
+    "price_eur": 258000,
+    "beds": 2,
+    "baths": 2,
+    "lot_m2": 1587,
+    "house_m2": 120,
+    "features": [
+      "Terrazza",
+      "Vicino ai servizi"
+    ],
+    "photos": [
+      "https://picsum.photos/seed/list1/400/250",
+      "https://picsum.photos/seed/list21/400/250"
+    ],
+    "agency_name": "Agenzia Liguria",
+    "agency_contact_email": "info@agenzia-liguria.it",
+    "url_source": "https://example.com/listing/demo"
+  },
+  {
+    "id": "puglia-ostuni-2",
+    "title_it": "Casa in Ostuni (Puglia)",
+    "region": "Puglia",
+    "comune": "Ostuni",
+    "price_eur": 358000,
+    "beds": 3,
+    "baths": 3,
+    "lot_m2": 347,
+    "house_m2": 137,
+    "features": [
+      "Aria condizionata",
+      "Vista mare"
+    ],
+    "photos": [
+      "https://picsum.photos/seed/list2/400/250",
+      "https://picsum.photos/seed/list22/400/250"
+    ],
+    "agency_name": "Agenzia Puglia",
+    "agency_contact_email": "info@agenzia-puglia.it",
+    "url_source": "https://example.com/listing/demo"
+  },
+  {
+    "id": "toscana-montepulciano-3",
+    "title_it": "Appartamento in Montepulciano (Toscana)",
+    "region": "Toscana",
+    "comune": "Montepulciano",
+    "price_eur": 307000,
+    "beds": 4,
+    "baths": 1,
+    "lot_m2": 1427,
+    "house_m2": 131,
+    "features": [
+      "Terrazza",
+      "Piscina",
+      "Aria condizionata"
+    ],
+    "photos": [
+      "https://picsum.photos/seed/list3/400/250",
+      "https://picsum.photos/seed/list23/400/250"
+    ],
+    "agency_name": "Agenzia Toscana",
+    "agency_contact_email": "info@agenzia-toscana.it",
+    "url_source": "https://example.com/listing/demo"
+  },
+  {
+    "id": "lazio-anzio-4",
+    "title_it": "Casa in Anzio (Lazio)",
+    "region": "Lazio",
+    "comune": "Anzio",
+    "price_eur": 358000,
+    "beds": 1,
+    "baths": 2,
+    "lot_m2": 299,
+    "house_m2": 167,
+    "features": [
+      "Riscaldamento a pavimento",
+      "Vicino ai servizi",
+      "Vista mare"
+    ],
+    "photos": [
+      "https://picsum.photos/seed/list4/400/250",
+      "https://picsum.photos/seed/list24/400/250"
+    ],
+    "agency_name": "Agenzia Lazio",
+    "agency_contact_email": "info@agenzia-lazio.it",
+    "url_source": "https://example.com/listing/demo"
+  },
+  {
+    "id": "sicilia-noto-5",
+    "title_it": "Casa in Noto (Sicilia)",
+    "region": "Sicilia",
+    "comune": "Noto",
+    "price_eur": 407000,
+    "beds": 2,
+    "baths": 3,
+    "lot_m2": 966,
+    "house_m2": 143,
+    "features": [
+      "Giardino",
+      "Terrazza"
+    ],
+    "photos": [
+      "https://picsum.photos/seed/list5/400/250",
+      "https://picsum.photos/seed/list25/400/250"
+    ],
+    "agency_name": "Agenzia Sicilia",
+    "agency_contact_email": "info@agenzia-sicilia.it",
+    "url_source": "https://example.com/listing/demo"
+  },
+  {
+    "id": "lombardia-menaggio-6",
+    "title_it": "Appartamento in Menaggio (Lombardia)",
+    "region": "Lombardia",
+    "comune": "Menaggio",
+    "price_eur": 417000,
+    "beds": 3,
+    "baths": 1,
+    "lot_m2": 266,
+    "house_m2": 160,
+    "features": [
+      "Riscaldamento a pavimento",
+      "Vicino ai servizi"
+    ],
+    "photos": [
+      "https://picsum.photos/seed/list6/400/250",
+      "https://picsum.photos/seed/list26/400/250"
+    ],
+    "agency_name": "Agenzia Lombardia",
+    "agency_contact_email": "info@agenzia-lombardia.it",
+    "url_source": "https://example.com/listing/demo"
+  },
+  {
+    "id": "piemonte-stresa-7",
+    "title_it": "Casa in Stresa (Piemonte)",
+    "region": "Piemonte",
+    "comune": "Stresa",
+    "price_eur": 587000,
+    "beds": 4,
+    "baths": 2,
+    "lot_m2": 1068,
+    "house_m2": 144,
+    "features": [
+      "Centro storico",
+      "Terrazza",
+      "Riscaldamento a pavimento",
+      "Giardino"
+    ],
+    "photos": [
+      "https://picsum.photos/seed/list7/400/250",
+      "https://picsum.photos/seed/list27/400/250"
+    ],
+    "agency_name": "Agenzia Piemonte",
+    "agency_contact_email": "info@agenzia-piemonte.it",
+    "url_source": "https://example.com/listing/demo"
+  },
+  {
+    "id": "umbria-spello-8",
+    "title_it": "Casa in Spello (Umbria)",
+    "region": "Umbria",
+    "comune": "Spello",
+    "price_eur": 475000,
+    "beds": 1,
+    "baths": 3,
+    "lot_m2": 348,
+    "house_m2": 220,
+    "features": [
+      "Terrazza",
+      "Box auto",
+      "Vicino ai servizi",
+      "Aria condizionata"
+    ],
+    "photos": [
+      "https://picsum.photos/seed/list8/400/250",
+      "https://picsum.photos/seed/list28/400/250"
+    ],
+    "agency_name": "Agenzia Umbria",
+    "agency_contact_email": "info@agenzia-umbria.it",
+    "url_source": "https://example.com/listing/demo"
+  },
+  {
+    "id": "calabria-tropea-9",
+    "title_it": "Appartamento in Tropea (Calabria)",
+    "region": "Calabria",
+    "comune": "Tropea",
+    "price_eur": 666000,
+    "beds": 2,
+    "baths": 1,
+    "lot_m2": 1170,
+    "house_m2": 236,
+    "features": [
+      "Camino",
+      "Aria condizionata"
+    ],
+    "photos": [
+      "https://picsum.photos/seed/list9/400/250",
+      "https://picsum.photos/seed/list29/400/250"
+    ],
+    "agency_name": "Agenzia Calabria",
+    "agency_contact_email": "info@agenzia-calabria.it",
+    "url_source": "https://example.com/listing/demo"
+  },
+  {
+    "id": "trentino-ortisei-10",
+    "title_it": "Casa in Ortisei (Trentino-Alto Adige)",
+    "region": "Trentino-Alto Adige",
+    "comune": "Ortisei",
+    "price_eur": 539000,
+    "beds": 3,
+    "baths": 2,
+    "lot_m2": 264,
+    "house_m2": 175,
+    "features": [
+      "Centro storico",
+      "Riscaldamento a pavimento",
+      "Camino",
+      "Piscina"
+    ],
+    "photos": [
+      "https://picsum.photos/seed/list10/400/250",
+      "https://picsum.photos/seed/list30/400/250"
+    ],
+    "agency_name": "Agenzia Trentino",
+    "agency_contact_email": "info@agenzia-trentino.it",
+    "url_source": "https://example.com/listing/demo"
+  }
+]

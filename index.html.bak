@@ -1,0 +1,325 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <title>Immobili in Italia – Demo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+<!-- Google AdSense -->
+<meta name="google-adsense-account" content="ca-pub-8876623211473720">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8876623211473720" crossorigin="anonymous"></script>
+<!-- /Google AdSense -->
+
+  <style>
+    body { font-family: system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif; margin:0; background:#f9fafb; color:#111}
+    main{max-width:960px;margin:24px auto;padding:0 16px}
+    .card{background:#fff;border:1px solid #eee;border-radius:14px;padding:12px;margin:10px 0;box-shadow:0 1px 2px rgba(0,0,0,.04)}
+    .muted{color:#6b7280} .price{color:#0e9f6e;font-weight:800}
+    header,footer{padding:16px 24px;background:#fff;border-bottom:1px solid #eee}
+    a.btn{display:inline-block;padding:10px 14px;border-radius:10px;background:#0e9f6e;color:#fff;text-decoration:none;font-weight:700}
+  </style>
+</head>
+<body>
+  <header><strong>Domy v Itálii – Demo</strong> <span class="muted">• portale statico</span></header>
+  <main class="layout">
+  <div class="content">
+    <h1 style="margin:8px 0">Immobili in Italia</h1>
+    <p class="muted">Seleziona una scheda o <a class="btn" href="/pricing.html">Pubblica il tuo annuncio</a></p>
+    
+      <a href="liguria-dolceacqua-1.html" style="text-decoration:none;color:inherit">
+        <div class="card">
+          <div class="grid" style="grid-template-columns:140px 1fr;align-items:center">
+            <img loading="lazy" src="https://picsum.photos/seed/list1/400/250" alt="Anteprima" width="140" height="88" style="border-radius:10px;border:1px solid #eee">
+            <div>
+              <strong>Casa in Dolceacqua (Liguria)</strong><br>
+              <span class="muted">Dolceacqua, Liguria</span><br>
+              <span class="price">€ 258.000</span>
+            </div>
+          </div>
+        </div>
+      </a>
+    
+      <a href="calabria-villa-5.html" style="text-decoration:none;color:inherit">
+        <div class="card">
+          <div class="grid" style="grid-template-columns:140px 1fr;align-items:center">
+            <img loading="lazy" src="https://picsum.photos/400/250?random=39" alt="Anteprima" width="140" height="88" style="border-radius:10px;border:1px solid #eee">
+            <div>
+              <strong>Villa con terrazza panoramica a Tropea</strong><br>
+              <span class="muted">Tropea, Calabria</span><br>
+              <span class="price">€ 275.000</span>
+            </div>
+          </div>
+        </div>
+      </a>
+    
+      <a href="liguria-casa-2.html" style="text-decoration:none;color:inherit">
+        <div class="card">
+          <div class="grid" style="grid-template-columns:140px 1fr;align-items:center">
+            <img loading="lazy" src="https://picsum.photos/400/250?random=2" alt="Anteprima" width="140" height="88" style="border-radius:10px;border:1px solid #eee">
+            <div>
+              <strong>Casa in pietra ristrutturata a Dolceacqua</strong><br>
+              <span class="muted">Dolceacqua, Liguria</span><br>
+              <span class="price">€ 289.000</span>
+            </div>
+          </div>
+        </div>
+      </a>
+    
+      <a href="toscana-montepulciano-3.html" style="text-decoration:none;color:inherit">
+        <div class="card">
+          <div class="grid" style="grid-template-columns:140px 1fr;align-items:center">
+            <img loading="lazy" src="https://picsum.photos/seed/list3/400/250" alt="Anteprima" width="140" height="88" style="border-radius:10px;border:1px solid #eee">
+            <div>
+              <strong>Appartamento in Montepulciano (Toscana)</strong><br>
+              <span class="muted">Montepulciano, Toscana</span><br>
+              <span class="price">€ 307.000</span>
+            </div>
+          </div>
+        </div>
+      </a>
+    
+      <a href="piemonte-casale-4.html" style="text-decoration:none;color:inherit">
+        <div class="card">
+          <div class="grid" style="grid-template-columns:140px 1fr;align-items:center">
+            <img loading="lazy" src="https://picsum.photos/400/250?random=37" alt="Anteprima" width="140" height="88" style="border-radius:10px;border:1px solid #eee">
+            <div>
+              <strong>Casale ristrutturato con cortile a Stresa</strong><br>
+              <span class="muted">Stresa, Piemonte</span><br>
+              <span class="price">€ 310.000</span>
+            </div>
+          </div>
+        </div>
+      </a>
+    
+      <a href="puglia-ostuni-2.html" style="text-decoration:none;color:inherit">
+        <div class="card">
+          <div class="grid" style="grid-template-columns:140px 1fr;align-items:center">
+            <img loading="lazy" src="https://picsum.photos/seed/list2/400/250" alt="Anteprima" width="140" height="88" style="border-radius:10px;border:1px solid #eee">
+            <div>
+              <strong>Casa in Ostuni (Puglia)</strong><br>
+              <span class="muted">Ostuni, Puglia</span><br>
+              <span class="price">€ 358.000</span>
+            </div>
+          </div>
+        </div>
+      </a>
+    
+      <a href="lazio-anzio-4.html" style="text-decoration:none;color:inherit">
+        <div class="card">
+          <div class="grid" style="grid-template-columns:140px 1fr;align-items:center">
+            <img loading="lazy" src="https://picsum.photos/seed/list4/400/250" alt="Anteprima" width="140" height="88" style="border-radius:10px;border:1px solid #eee">
+            <div>
+              <strong>Casa in Anzio (Lazio)</strong><br>
+              <span class="muted">Anzio, Lazio</span><br>
+              <span class="price">€ 358.000</span>
+            </div>
+          </div>
+        </div>
+      </a>
+    
+      <a href="sicilia-noto-5.html" style="text-decoration:none;color:inherit">
+        <div class="card">
+          <div class="grid" style="grid-template-columns:140px 1fr;align-items:center">
+            <img loading="lazy" src="https://picsum.photos/seed/list5/400/250" alt="Anteprima" width="140" height="88" style="border-radius:10px;border:1px solid #eee">
+            <div>
+              <strong>Casa in Noto (Sicilia)</strong><br>
+              <span class="muted">Noto, Sicilia</span><br>
+              <span class="price">€ 407.000</span>
+            </div>
+          </div>
+        </div>
+      </a>
+    
+      <a href="lombardia-menaggio-6.html" style="text-decoration:none;color:inherit">
+        <div class="card">
+          <div class="grid" style="grid-template-columns:140px 1fr;align-items:center">
+            <img loading="lazy" src="https://picsum.photos/seed/list6/400/250" alt="Anteprima" width="140" height="88" style="border-radius:10px;border:1px solid #eee">
+            <div>
+              <strong>Appartamento in Menaggio (Lombardia)</strong><br>
+              <span class="muted">Menaggio, Lombardia</span><br>
+              <span class="price">€ 417.000</span>
+            </div>
+          </div>
+        </div>
+      </a>
+    
+      <a href="lombardia-appartamento-3.html" style="text-decoration:none;color:inherit">
+        <div class="card">
+          <div class="grid" style="grid-template-columns:140px 1fr;align-items:center">
+            <img loading="lazy" src="https://picsum.photos/400/250?random=35" alt="Anteprima" width="140" height="88" style="border-radius:10px;border:1px solid #eee">
+            <div>
+              <strong>Appartamento moderno sul lago a Menaggio</strong><br>
+              <span class="muted">Menaggio, Lombardia</span><br>
+              <span class="price">€ 420.000</span>
+            </div>
+          </div>
+        </div>
+      </a>
+    
+      <a href="umbria-spello-8.html" style="text-decoration:none;color:inherit">
+        <div class="card">
+          <div class="grid" style="grid-template-columns:140px 1fr;align-items:center">
+            <img loading="lazy" src="https://picsum.photos/seed/list8/400/250" alt="Anteprima" width="140" height="88" style="border-radius:10px;border:1px solid #eee">
+            <div>
+              <strong>Casa in Spello (Umbria)</strong><br>
+              <span class="muted">Spello, Umbria</span><br>
+              <span class="price">€ 475.000</span>
+            </div>
+          </div>
+        </div>
+      </a>
+    
+      <a href="puglia-villa-1.html" style="text-decoration:none;color:inherit">
+        <div class="card">
+          <div class="grid" style="grid-template-columns:140px 1fr;align-items:center">
+            <img loading="lazy" src="https://picsum.photos/400/250?random=1" alt="Anteprima" width="140" height="88" style="border-radius:10px;border:1px solid #eee">
+            <div>
+              <strong>Villa panoramica con piscina vicino a Ostuni</strong><br>
+              <span class="muted">Ostuni, Puglia</span><br>
+              <span class="price">€ 495.000</span>
+            </div>
+          </div>
+        </div>
+      </a>
+    
+      <a href="trentino-ortisei-10.html" style="text-decoration:none;color:inherit">
+        <div class="card">
+          <div class="grid" style="grid-template-columns:140px 1fr;align-items:center">
+            <img loading="lazy" src="https://picsum.photos/seed/list10/400/250" alt="Anteprima" width="140" height="88" style="border-radius:10px;border:1px solid #eee">
+            <div>
+              <strong>Casa in Ortisei (Trentino-Alto Adige)</strong><br>
+              <span class="muted">Ortisei, Trentino-Alto Adige</span><br>
+              <span class="price">€ 539.000</span>
+            </div>
+          </div>
+        </div>
+      </a>
+    
+      <a href="piemonte-stresa-7.html" style="text-decoration:none;color:inherit">
+        <div class="card">
+          <div class="grid" style="grid-template-columns:140px 1fr;align-items:center">
+            <img loading="lazy" src="https://picsum.photos/seed/list7/400/250" alt="Anteprima" width="140" height="88" style="border-radius:10px;border:1px solid #eee">
+            <div>
+              <strong>Casa in Stresa (Piemonte)</strong><br>
+              <span class="muted">Stresa, Piemonte</span><br>
+              <span class="price">€ 587.000</span>
+            </div>
+          </div>
+        </div>
+      </a>
+    
+      <a href="toscana-rustico-1.html" style="text-decoration:none;color:inherit">
+        <div class="card">
+          <div class="grid" style="grid-template-columns:140px 1fr;align-items:center">
+            <img loading="lazy" src="https://picsum.photos/400/250?random=31" alt="Anteprima" width="140" height="88" style="border-radius:10px;border:1px solid #eee">
+            <div>
+              <strong>Rustico in pietra con vigneto a Montepulciano</strong><br>
+              <span class="muted">Montepulciano, Toscana</span><br>
+              <span class="price">€ 650.000</span>
+            </div>
+          </div>
+        </div>
+      </a>
+    
+      <a href="calabria-tropea-9.html" style="text-decoration:none;color:inherit">
+        <div class="card">
+          <div class="grid" style="grid-template-columns:140px 1fr;align-items:center">
+            <img loading="lazy" src="https://picsum.photos/seed/list9/400/250" alt="Anteprima" width="140" height="88" style="border-radius:10px;border:1px solid #eee">
+            <div>
+              <strong>Appartamento in Tropea (Calabria)</strong><br>
+              <span class="muted">Tropea, Calabria</span><br>
+              <span class="price">€ 666.000</span>
+            </div>
+          </div>
+        </div>
+      </a>
+    
+      <a href="sicilia-villa-2.html" style="text-decoration:none;color:inherit">
+        <div class="card">
+          <div class="grid" style="grid-template-columns:140px 1fr;align-items:center">
+            <img loading="lazy" src="https://picsum.photos/400/250?random=33" alt="Anteprima" width="140" height="88" style="border-radius:10px;border:1px solid #eee">
+            <div>
+              <strong>Villa panoramica fronte mare a Noto</strong><br>
+              <span class="muted">Noto, Sicilia</span><br>
+              <span class="price">€ 890.000</span>
+            </div>
+          </div>
+        </div>
+      </a>
+    
+  </div>
+  <aside class="sidebar">
+    <section class="widget widget--sidebar">
+      <header class="widget__header">
+        <h2>Ricette italiane</h2>
+        <button id="recipes-toggle" aria-expanded="true" aria-controls="recipes-list">▾</button>
+      </header>
+      <div id="recipes-list" class="recipes-list"></div>
+      <footer class="widget__footer">
+        <a class="cta--ghost" href="/confronta.html">Confronta servizi</a>
+      </footer>
+    </section>
+  </aside>
+</main>
+  <footer>© 2025 • <a href="/pricing.html">Pricing inserzionisti</a> • <a href="/privacy.html">Privacy & Cookie</a></footer>
+<!-- Script widget ricette (sidebar) -->
+<script>
+(function(){
+  const listEl = document.getElementById('recipes-list');
+  const btn = document.getElementById('recipes-toggle');
+  if(!listEl || !btn) return;
+
+  // Toggle tendina
+  btn.addEventListener('click', () => {
+    const expanded = btn.getAttribute('aria-expanded') === 'true';
+    btn.setAttribute('
+
+  });
+
+  // Carica JSON e render
+  fetch('/data/ricette.json', { cache: 'no-store' })
+    .then(r => r.ok ? r.json() : [])
+    .then(render)
+    .catch(() => render([]));
+
+  function render(items){
+    // fallback se vuoto
+    if(!Array.isArray(items) || !items.length){
+      items = [
+        {title:'Spaghetti al pomodoro', image:'https://picsum.photos/seed/pomo/600/400', url:'#', type:'link', date:'2025-08-20'},
+        {title:'Risotto alla milanese (PDF)', image:'https://picsum.photos/seed/risotto/600/400', url:'#', type:'pdf', date:'2025-08-28'}
+      ];
+    }
+
+    // ordina per data desc
+    items.sort((a,b) => (b.date||'').localeCompare(a.date||''));
+
+    const now = new Date();
+    const rows = items.slice(0,8).map(it => {
+      const isPdf = (it.type||'').toLowerCase()==='pdf' || /\.pdf(\?|$)/i.test(it.url||'');
+      const d = it.date ? new Date(it.date) : null;
+      const isNew = d ? ((now - d) / 86400000) <= 7 : false;
+
+      return `
+        <a class="recipe-row" href="${it.url||'#'}" target="_blank" rel="noopener">
+          <img src="${it.image||''}" alt="">
+          <div class="title">${escapeHtml(it.title||'')}</div>
+          <div>
+            ${isPdf ? '<span class="badge pdf">PDF</span>' : ''}
+            ${isNew ? '<span class="badge new">Nuovo</span>' : ''}
+          </div>
+        </a>
+      `;
+    }).join('');
+
+    listEl.innerHTML = rows || '<div class="muted" style="padding:8px">Nessuna ricetta</div>';
+  }
+
+  function escapeHtml(s){
+    return String(s).replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
+  }
+})();
+</script>
+
+</body>
+</html>
