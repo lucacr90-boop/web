@@ -1,0 +1,63 @@
+﻿--- MATCH @  («archive.org») ---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><td class="line-number" value="2"><td class="line-content"><span class="html-tag"><html><td class="line-number" value="3"><td class="line-content"><span class="html-tag"><head><span class="html-tag"><script <spa
+
+--- MATCH @  («archive.org») ---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><td class="line-number" value="2"><td class="line-content"><span class="html-tag"><html><td class="line-number" value="3"><td class="line-content"><span class="html-tag"><head><span class="html-tag"><script <spa
+
+--- MATCH @  («archive.org») ---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><td class="line-number" value="2"><td class="line-content"><span class="html-tag"><html><td class="line-number" value="3"><td class="line-content"><span class="html-tag"><head><span class="html-tag"><script <spa
+
+--- MATCH @  («web-static.archive.org») ---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><td class="line-number" value="2"><td class="line-content"><span class="html-tag"><html><td class="line-number" value="3"><td class="line-content"><span class="html-tag"><head><span class="html-tag"><script <spa
+
+--- MATCH @  («web-static.archive.org») ---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><td class="line-number" value="2"><td class="line-content"><span class="html-tag"><html><td class="line-number" value="3"><td class="line-content"><span class="html-tag"><head><span class="html-tag"><script <spa
+
+--- MATCH @  («web-static.archive.org») ---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><td class="line-number" value="2"><td class="line-content"><span class="html-tag"><html><td class="line-number" value="3"><td class="line-content"><span class="html-tag"><head><span class="html-tag"><script <spa
+
+--- MATCH @  («web-static.archive.org») ---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><td class="line-number" value="2"><td class="line-content"><span class="html-tag"><html><td class="line-number" value="3"><td class="line-content"><span class="html-tag"><head><span class="html-tag"><script <spa
+
+--- MATCH @  («web-static.archive.org») ---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><td class="line-number" value="2"><td class="line-content"><span class="html-tag"><html><td class="line-number" value="3"><td class="line-content"><span class="html-tag"><head><span class="html-tag"><script <spa
+
+--- MATCH @  («web-static.archive.org») ---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><td class="line-number" value="2"><td class="line-content"><span class="html-tag"><html><td class="line-number" value="3"><td class="line-content"><span class="html-tag"><head><span class="html-tag"><script <spa
+
+--- MATCH @  («web.archive.org») ---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><td class="line-number" value="2"><td class="line-content"><span class="html-tag"><html><td class="line-number" value="3"><td class="line-content"><span class="html-tag"><head><span class="html-tag"><script <spa
+
+--- MATCH @  («web.archive.org») ---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><td class="line-number" value="2"><td class="line-content"><span class="html-tag"><html><td class="line-number" value="3"><td class="line-content"><span class="html-tag"><head><span class="html-tag"><script <spa
+
+--- MATCH @  («web-static.archive.org») ---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><td class="line-number" value="2"><td class="line-content"><span class="html-tag"><html><td class="line-number" value="3"><td class="line-content"><span class="html-tag"><head><span class="html-tag"><script <spa
+
+--- MATCH @  («web-static.archive.org») ---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><td class="line-number" value="2"><td class="line-content"><span class="html-tag"><html><td class="line-number" value="3"><td class="line-content"><span class="html-tag"><head><span class="html-tag"><script <spa
+
+--- MATCH @  («web-static.archive.org») ---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><td class="line-number" value="2"><td class="line-content"><span class="html-tag"><html><td class="line-number" value="3"><td class="line-content"><span class="html-tag"><head><span class="html-tag"><script <spa
+
+--- MATCH @  («web-static.archive.org») ---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><td class="line-number" value="2"><td class="line-content"><span class="html-tag"><html><td class="line-number" value="3"><td class="line-content"><span class="html-tag"><head><span class="html-tag"><script <spa
+
+--- MATCH @  («web-static.archive.org») ---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><td class="line-number" value="2"><td class="line-content"><span class="html-tag"><html><td class="line-number" value="3"><td class="line-content"><span class="html-tag"><head><span class="html-tag"><script <spa
+
+--- MATCH @  («web.archive.org») ---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><td class="line-number" value="2"><td class="line-content"><span class="html-tag"><html><td class="line-number" value="3"><td class="line-content"><span class="html-tag"><head><span class="html-tag"><script <spa
+
+--- MATCH @  («web.archive.org») ---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><td class="line-number" value="2"><td class="line-content"><span class="html-tag"><html><td class="line-number" value="3"><td class="line-content"><span class="html-tag"><head><span class="html-tag"><script <spa
+
+--- MATCH @  («web.archive.org») ---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><td class="line-number" value="2"><td class="line-content"><span class="html-tag"><html><td class="line-number" value="3"><td class="line-content"><span class="html-tag"><head><span class="html-tag"><script <spa
+
+--- MATCH @  («web.archive.org») ---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><td class="line-number" value="2"><td class="line-content"><span class="html-tag"><html><td class="line-number" value="3"><td class="line-content"><span class="html-tag"><head><span class="html-tag"><script <spa
+
+--- MATCH @  («web.archive.org») ---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><td class="line-number" value="2"><td class="line-content"><span class="html-tag"><html><td class="line-number" value="3"><td class="line-content"><span class="html-tag"><head><span class="html-tag"><script <spa
+
